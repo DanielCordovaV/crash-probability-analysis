@@ -1,2 +1,4 @@
 datasets/datlas.csv
 .ipynb_checkpoints/
+.DS_Store
+NL/
