@@ -34,6 +34,9 @@ def variables():
         return render_template('tableu04.html')
     elif display_type == 'calc':
         return render_template('calc.html')
+    elif display_type == 'dnn':
+        return redirect("https://colab.research.google.com/drive/12qXsQ2_Sc9kNngT1h2klbaDdIRiR_5NX?usp=sharing",
+                        code=302)
 
     return render_template('variables.html', display_type=display_type), 200
 
