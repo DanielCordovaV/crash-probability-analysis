@@ -1,5 +1,13 @@
-datasets/datlas.csv
+datasets/*
+webapp/datlas.csv
+webapp/maps/*
+*/.idea/*
+*/venv/*
+*/id.txt
 .ipynb_checkpoints/
 .DS_Store
 NL/
 datasets/datlas_cleaned.csv
+*.jpg
+*/__pycache__/*
+__pycache__/*

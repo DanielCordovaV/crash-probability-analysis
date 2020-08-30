@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Live visualization</title>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+</head>
+<header class="mt-5 mb-5" style="color: aliceblue">
+
+  <a href="analysis">
+      <button type="button" class="btn btn-danger" style="width: 200px;position: absolute; top: 10px; left: 10px;
+          font-family: Montserrat; font-weight: bold; font-size: medium">
+        Menú Principal
+      </button>
+    </a>
+
+    <div class="text-center" style="text-align: center; align-items: center; justify-content: center">
+      <h1 class="text-center" style="font-family: Montserrat; font-size: 50px; font-weight: bold">
+        Accidentes Automovilísticos por día y hora
+      </h1>
+  </div>
+</header>
+
+<body style="align-content: center">
+
+  <div class='tableauPlaceholder' id='viz1598776817781' style='margin-right: auto; margin-left: auto; margin-bottom: 100px'>
+    <noscript><a href='#'>
+      <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;au&#47;autos-camiones&#47;Dashboard2&#47;1_rss.png' style='border: none' />
+    </a>
+    </noscript>
+    <object class='tableauViz'  style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='site_root' value='' />
+      <param name='name' value='autos-camiones&#47;Dashboard2' />
+      <param name='tabs' value='no' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;au&#47;autos-camiones&#47;Dashboard2&#47;1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='es' />
+      <param name='filter' value='publish=yes' />
+    </object>
+  </div>
+  <script type='text/javascript'>
+      var divElement = document.getElementById('viz1598776817781');
+      var vizElement = divElement.getElementsByTagName('object')[0];
+      if ( divElement.offsetWidth > 800 ) {
+          vizElement.style.width='1000px';
+          vizElement.style.height='827px';
+      } else if ( divElement.offsetWidth > 500 ) {
+          vizElement.style.width='1000px';
+          vizElement.style.height='827px';
+      } else {
+          vizElement.style.width='100%';
+          vizElement.style.height='727px';
+      }
+      var scriptElement = document.createElement('script');
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  </script>
+
+</body>
+  <style>
+    body {
+        background-image: url(/static/background_05.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        object-fit: contain;
+    }
+  </style>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+
+</html>
