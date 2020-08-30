@@ -2,3 +2,4 @@ datasets/datlas.csv
 .ipynb_checkpoints/
 .DS_Store
 NL/
+datasets/datlas_cleaned.csv
