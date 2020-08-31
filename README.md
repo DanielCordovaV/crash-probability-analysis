@@ -2,7 +2,7 @@
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Generic badge](https://img.shields.io/badge/HackMTY-Datlas%20Winner-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/HackMTY-Datlas%20Winner-green.svg)](https://hackmty.com/)
 [![Plataforma](https://img.shields.io/badge/link-website-blue.svg)](https://hackmty-alpha-tauri.herokuapp.com/)
 [![Version](https://img.shields.io/badge/version-v1.0-red.svg)](https://hackmty-alpha-tauri.herokuapp.com/)
 
