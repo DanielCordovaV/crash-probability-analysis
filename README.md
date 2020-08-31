@@ -6,6 +6,11 @@
 [![Plataforma](https://img.shields.io/badge/link-website-blue.svg)](https://hackmty-alpha-tauri.herokuapp.com/)
 [![Version](https://img.shields.io/badge/version-v1.0-red.svg)](https://hackmty-alpha-tauri.herokuapp.com/)
 
+## Autores
+* [Daniel Cordova](https://github.com/DanielCordovaV) 
+* [Pablo Blanco](https://github.com/pablo-blancoc)
+* José Vázquez 
+* [Oswaldo Hernández](https://github.com/OSWA00) 
 
 ## Resumen ejecutivo:
 ![alt text](https://github.com/DanielCordovaV/crash-probability-time-series-analysis/blob/master/images/01.png)
@@ -68,5 +73,3 @@ El despliegue de las fuerzas de tránsito y de respuesta, puede volverse más ef
 Por último, se puede validar que el tipo de accidente de acuerdo al vehículo tiene variaciones en las geografías donde ocurren. Lo que puede ayudar a las aseguradoras a destinar ajustadores especializados en las colisiones de camiones en los puntos de mayor incidencia. Así como apoyar al gobierno a tomar medidas de optimización vial para reducir el número de casos. 
 
 
-## Autores
-[Daniel Cordova](https://github.com/DanielCordovaV) | José Vázquez | [Oswaldo Hernández](https://github.com/OSWA00) | [Pablo Blanco](https://github.com/pablo-blancoc)
