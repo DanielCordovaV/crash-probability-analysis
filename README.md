@@ -64,4 +64,4 @@ Por último, se puede validar que el tipo de accidente de acuerdo al vehículo t
 
 
 ## Autores
-Daniel Cordova | José Vázquez | Oswaldo Hernández | Pablo Blanco
+[Daniel Cordova](https://github.com/DanielCordovaV) | José Vázquez | [Oswaldo Hernández](https://github.com/OSWA00) | [Pablo Blanco](https://github.com/pablo-blancoc)
